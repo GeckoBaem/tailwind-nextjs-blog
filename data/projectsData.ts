@@ -30,6 +30,18 @@ const projectsData: Project[] = [
     imgSrc: "https://i.imgur.com/ZpGq1Gk.png",
     href: "https://project-ulla-web.pages.dev/",
   },
+  {
+    title: "Weather Forecast API",
+    description: `외부 API 활용 능력 학습 목적 날씨 예보 웹(Next.JS, Vercel)`,
+    imgSrc: "https://i.imgur.com/GAKT5lS.png",
+    href: "https://weather.geckobaem.kr",
+  },
+  {
+    title: "Voronoi & Delaunay",
+    description: `2024년도 덕영고 알고리즘 교내 대회 우수상 프로젝트 - 보로노이 & 들로네 시각화`,
+    imgSrc: "https://i.imgur.com/hMEVzyy.png",
+    href: "https://geckobaem.github.io/Voronoi-Delaunay/main.html",
+  },
 ]
 
 export default projectsData

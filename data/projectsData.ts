@@ -10,7 +10,7 @@ const projectsData: Project[] = [
     title: "WITTY",
     description: `2024년도 제50회 덕영제 전시 목적 MAKE@Web 동아리 - 교사 정보 제공 웹앱`,
     imgSrc: "https://i.imgur.com/fEJWjIy.png",
-    href: "https://witty.dyhs.kr/",
+    href: "https://github.com/GeckoBaem/WITTY",
   },
   {
     title: "Gradient Color Text Generator",
@@ -22,7 +22,7 @@ const projectsData: Project[] = [
     title: "Quick Sort Animation",
     description: `자료구조 - 퀵정렬 시각화 제작`,
     imgSrc: "https://i.imgur.com/69Y8MwT.png",
-    href: "https://github.com/GeckoBaem/Quick-Sort-Animation-",
+    href: "https://geckobaem.github.io/Quick-Sort-Animation/main.html",
   },
   {
     title: "PROJECT: ULLA",

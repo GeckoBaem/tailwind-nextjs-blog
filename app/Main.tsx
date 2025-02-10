@@ -18,8 +18,8 @@ export default function Home({ posts }) {
           Hello World!
         </h1>
       </div>
-      <p className="text-xl">WOOJIN JEON / DYHS Software Department</p>
-      <p className="text-xl">전우진 / 덕영고 소프트웨어과</p>
+      <p className="text-xl">WOOJIN JEON / Yonsei University Mirae Campus Software</p>
+      <p className="text-xl">전우진 / 연세대 미래캠 소프트웨어학부</p>  
       <div className="mt-4 flex space-x-5">
         <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} size={10} />
         <SocialIcon kind="github" href={siteMetadata.github} size={10} />

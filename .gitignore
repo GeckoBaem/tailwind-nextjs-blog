@@ -45,3 +45,5 @@ yarn-error.log*
 
 # Contentlayer
 .contentlayer
+node_modules
+

@@ -42,6 +42,18 @@ const projectsData: Project[] = [
     imgSrc: "https://i.imgur.com/hMEVzyy.png",
     href: "https://geckobaem.github.io/Voronoi-Delaunay/main.html",
   },
+  {
+    title: "PANGssenger FrontEnd",
+    description: `2024 덕영고 데이터베이스 프로그래밍 세특 - Socket 통신 기반 메신저 웹`,
+    imgSrc: "",
+    href: "https://github.com/typi-gecko/PANGssenger-frontend",
+  },
+  {
+    title: "Simple IT Quiz",
+    description: `2024년도 용인 교육 페스타 전시용 프로젝트 - 간단한 IT 상식 퀴즈 뿡뿡`,
+    imgSrc: "",
+    href: "https://github.com/GeckoBaem/simple-IT-Quiz",
+  },
 ]
 
 export default projectsData

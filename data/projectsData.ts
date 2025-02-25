@@ -50,7 +50,7 @@ const projectsData: Project[] = [
   },
   {
     title: "Simple IT Quiz",
-    description: `2024년도 용인 교육 페스타 전시용 프로젝트 - 간단한 IT 상식 퀴즈 뿡뿡`,
+    description: `2024년도 용인 교육 페스타 전시용 프로젝트 - 간단한 IT 상식 퀴즈`,
     imgSrc: "",
     href: "https://github.com/GeckoBaem/simple-IT-Quiz",
   },
